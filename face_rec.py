@@ -5,7 +5,7 @@ import face_recognition
 import numpy as np
 from time import sleep
 
-
+#tttttt
 def get_encoded_faces():
     """
     looks through the faces folder and encodes all
